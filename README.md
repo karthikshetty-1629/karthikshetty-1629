@@ -12,4 +12,4 @@
 ###### 📫 How to reach me:
 ###### LinkedIn : https://www.linkedin.com/in/karthik-shetty-564b611bb/
 ###### Email : @karthikshetty1629@gmail.com
-###### GitHub : karthikshetty-1629
+###### GitHub : @karthikshetty-1629
