@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I’m @Karthikshetty-1629
+###### I’m @Karthikshetty-1629
 ## Specialties include:
 ## SQL Querying
 ## Python
